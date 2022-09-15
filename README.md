@@ -13,7 +13,7 @@ Creating a check list
 ---
 
 # To Do List
-- [x] <del> Create a To Do List </del>
+- [x] Create a To Do List
 - [ ] Add more items from the paper
 - [x] Think of a topic for my promotiona website (xbox)
 - [ ] Make an official design for my website
