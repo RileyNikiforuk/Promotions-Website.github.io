@@ -1,0 +1,43 @@
+header {
+    padding:15px;
+}
+
+body {
+    background-image: url(https://wallpaperaccess.com/full/891537.jpg);
+}
+
+nav {
+}
+
+menu {
+    width: 25%;
+}
+
+main {
+    width: 50%;
+}
+
+section {
+}
+
+aside {
+    width: 25%;
+}
+
+article {
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background: black;
+    border: 1px solid white;
+}
+
+div {
+    padding: 15px;
+}
